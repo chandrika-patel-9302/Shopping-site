@@ -112,6 +112,22 @@ const items = [
     },
 
     {
+        item_image: '/Shopping-site/images/pendant2.webp',
+        rating: {
+            stars: 4.5,
+            noOfStars: '/images/rating.png'
+        },
+        comapny_name: 'Joyalukkas',
+        quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
+        price_symbol: '₹',
+        current_price: '97,849',
+        original_price: '₹1,08,721',
+        discount_per: '(10% off)',
+        delivery_date: 'Sat, 28 Mar',
+        Card_button: 'Add to card'
+    },
+
+        {
         item_image: '/Shopping-site/images/pendant1.webp',
         rating: {
             stars: 4.5,
@@ -125,5 +141,92 @@ const items = [
         discount_per: '(10% off)',
         delivery_date: 'Sat, 28 Mar',
         Card_button: 'Add to card'
-    }
+    },
+
+        {
+        item_image: '/Shopping-site/images/pendant3.webp',
+        rating: {
+            stars: 4.5,
+            noOfStars: '/images/rating.png'
+        },
+        comapny_name: 'Joyalukkas',
+        quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
+        price_symbol: '₹',
+        current_price: '97,849',
+        original_price: '₹1,08,721',
+        discount_per: '(10% off)',
+        delivery_date: 'Sat, 28 Mar',
+        Card_button: 'Add to card'
+    },
+
+
+        {
+        item_image: '/Shopping-site/images/pendant4.webp',
+        rating: {
+            stars: 4.5,
+            noOfStars: '/images/rating.png'
+        },
+        comapny_name: 'Joyalukkas',
+        quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
+        price_symbol: '₹',
+        current_price: '97,849',
+        original_price: '₹1,08,721',
+        discount_per: '(10% off)',
+        delivery_date: 'Sat, 28 Mar',
+        Card_button: 'Add to card'
+    },
+
+
+        {
+        item_image: '/Shopping-site/images/netles3.webp',
+        rating: {
+            stars: 4.5,
+            noOfStars: '/images/rating.png'
+        },
+        comapny_name: 'Joyalukkas',
+        quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
+        price_symbol: '₹',
+        current_price: '97,849',
+        original_price: '₹1,08,721',
+        discount_per: '(10% off)',
+        delivery_date: 'Sat, 28 Mar',
+        Card_button: 'Add to card'
+    },
+
+
+
+        {
+        item_image: '/Shopping-site/images/netles4.webp',
+        rating: {
+            stars: 4.5,
+            noOfStars: '/images/rating.png'
+        },
+        comapny_name: 'Joyalukkas',
+        quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
+        price_symbol: '₹',
+        current_price: '97,849',
+        original_price: '₹1,08,721',
+        discount_per: '(10% off)',
+        delivery_date: 'Sat, 28 Mar',
+        Card_button: 'Add to card'
+    },
+
+        {
+        item_image: '/Shopping-site/images/netles5.webp',
+        rating: {
+            stars: 4.5,
+            noOfStars: '/images/rating.png'
+        },
+        comapny_name: 'Joyalukkas',
+        quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
+        price_symbol: '₹',
+        current_price: '97,849',
+        original_price: '₹1,08,721',
+        discount_per: '(10% off)',
+        delivery_date: 'Sat, 28 Mar',
+        Card_button: 'Add to card'
+    },
+
+    
+
 ]
