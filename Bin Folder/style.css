@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Assistant,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    position: relative;
+    align-content: space-around;
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+    justify-content: space-around;
+    align-items: center;
+}
+.chandrika{
+    height: 60px;
+    margin-left: 20px;
+    border-radius: 50%;
+    
+}
+#action_bar{
+    margin-right: 20px;
+}
+.super{
+    color: rgb(117, 0, 0);
+    font-size: 10px;
+}
+#navigation{
+    display: flex;
+    min-width: 500px;
+    justify-content: space-around;
+
+}
+#navigation a{
+    font-size: 14px;
+    letter-spacing: .3px;
+    color: #282c3f;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 28px 0;
+    background-color: white;
+    
+}
+#navigation a:hover{
+    border-bottom: 2px solid rgb(223, 148, 148);
+
+}
+.search_icon{
+    height: 20px;
+    color: #282c3f;
+    font-weight: bold;
+}
+.search_input{
+    background-color: #e8e6e6;
+    color: #696e79;
+    flex-grow: 1;
+    height: 30px;
+    border-radius: 15px;
+    border: 0;
+    display: flex;
+}
+
+#search_bar{
+    border-radius: 15px;
+    height: 50px;
+    min-width: 400px;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    background-color: #e8e6e6;
+
+}
+
+.search{
+    height: 35px;
+    padding: 10px;
+}
+
+#action_bar{
+    display: flex;
+    align-items: center;
+    min-width: 200px;
+    justify-content: space-around;
+}
+
+
+.profilepic{
+    height: 25px;
+}
+.bag{
+    height: 25px;
+}
+.wishlist{
+    height: 25px;
+}
+
+
+/* main section */
+
+.items-container{
+    width: 90%;
+    margin-left: 5% ;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+ 
+}
+.item-container{
+    margin: 20px;
+    height: 485px;
+    width: 250px;
+   
+}
+
+.jhumke{
+    height: 250px;
+    border: none;
+    width: 250px;
+    object-fit: contain;
+
+}
+.spon{
+    display: flex;
+}
+
+.Sponsored{
+    font-size: 10px;
+    height: 15px;
+    margin-top: 3px;
+    display: inline;
+    padding-right: 5px;
+}
+
+.Sponsored-id{
+    height: 15px;
+    /* background-color: gray; */
+    border-radius: 50%;
+    border: none;
+}
+
+.company-name{
+    font-weight: 700;
+}
+
+.rating-img{
+    height: 10px;
+}
+
+.price{
+    font-size: 30px;
+    font-weight: 600;
+}
+.rupee{
+    font-size: 15px;
+    font-weight: 600;
+}
+.current-price{
+    font-size: 15px;
+      text-decoration: line-through;
+}
+.delivery-date{
+    font-weight: bold;
+}
+
+.card-button{
+    background-color: #ffd500;;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+}
+/*futter section*/
+
+.footer_container{
+    padding: 30px 0px 40px 0px;
+    background-color: #fafbfc;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer_column{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footer_column a{
+    text-decoration: none;
+    color: #696b79;
+    padding-bottom: 5px;
+}
+
