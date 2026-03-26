@@ -3,10 +3,10 @@
 const items = [
     {
         id:'1',
-        item_image: '/images/jhumke.webp',
+        item_image: '/Shopping-site/images/jhumke.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -22,10 +22,10 @@ const items = [
 
     {
         id:'2',
-        item_image: '/images/jhumka1.webp',
+        item_image: '/Shopping-site/images/jhumka1.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -39,10 +39,10 @@ const items = [
 
     {
         id:'3',
-        item_image: '/images/jhumka2.webp',
+        item_image: '/Shopping-site/images/jhumka2.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -56,10 +56,10 @@ const items = [
 
     {
         id:'4',
-        item_image: '/images/jhumka3.webp',
+        item_image: '/Shopping-site/images/jhumka3.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -73,10 +73,10 @@ const items = [
 
     {
         id:'5',
-        item_image: '/images/jhuma4.webp',
+        item_image: '/Shopping-site/images/jhuma4.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -89,10 +89,10 @@ const items = [
     },
     {
         id:'6',
-        item_image: '/images/netles1.webp',
+        item_image: '/Shopping-site/images/netles1.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -106,10 +106,10 @@ const items = [
 
     {
         id:'7',
-        item_image: '/images/netles2.webp',
+        item_image: '/Shopping-site/images/netles2.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -124,10 +124,10 @@ const items = [
 
     {
         id:'8',
-        item_image: '/images/pendant2.webp',
+        item_image: '/Shopping-site/images/pendant2.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -141,10 +141,10 @@ const items = [
 
     {
         id:'9',
-        item_image: '/images/pendant1.webp',
+        item_image: '/Shopping-site/images/pendant1.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -158,10 +158,10 @@ const items = [
 
     {
         id:'10',
-        item_image: '/images/pendant3.webp',
+        item_image: '/Shopping-site/images/pendant3.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -176,10 +176,10 @@ const items = [
 
     {
         id:'11',
-        item_image: '/images/pendant4.webp',
+        item_image: '/Shopping-site/images/pendant4.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -194,10 +194,10 @@ const items = [
 
     {
         id:'12',
-        item_image: '/images/netles3.webp',
+        item_image: '/Shopping-site/images/netles3.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -213,10 +213,10 @@ const items = [
 
     {
         id:'13',
-        item_image: '/images/netles4.webp',
+        item_image: '/Shopping-site/images/netles4.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -230,10 +230,10 @@ const items = [
 
     {
         id:'14',
-        item_image:'/images/netles5.webp',
+        item_image:'/Shopping-site/images/netles5.webp',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -256,10 +256,10 @@ const items = [
 const MensItem = [
     {
         id:'1',
-        item_image: '/images/ject1.jpg',
+        item_image: '/Shopping-site/images/ject1.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -275,10 +275,10 @@ const MensItem = [
 
     {
         id:'2',
-        item_image: '/images/ject2.jpg',
+        item_image: '/Shopping-site/images/ject2.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -292,10 +292,10 @@ const MensItem = [
 
     {
         id:'3',
-        item_image: '/images/ject3.jpg',
+        item_image: '/Shopping-site/images/ject3.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -309,10 +309,10 @@ const MensItem = [
 
     {
         id:'4',
-        item_image: '/images/ject3.jpg',
+        item_image: '/Shopping-site/images/ject3.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -326,10 +326,10 @@ const MensItem = [
 
     {
         id:'5',
-        item_image: '/images/ject4.jpg',
+        item_image: '/Shopping-site/images/ject4.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -342,10 +342,10 @@ const MensItem = [
     },
     {
         id:'6',
-        item_image: '/images/ject5.jpg',
+        item_image: '/Shopping-site/images/ject5.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -359,10 +359,10 @@ const MensItem = [
 
     {
         id:'7',
-        item_image: '/images/pent1.jpg',
+        item_image: '/Shopping-site/images/pent1.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -377,10 +377,10 @@ const MensItem = [
 
     {
         id:'8',
-        item_image: '/images/pent2.jpg',
+        item_image: '/Shopping-site/images/pent2.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -394,10 +394,10 @@ const MensItem = [
 
     {
         id:'9',
-        item_image: '/images/pent3.jpg',
+        item_image: '/Shopping-site/images/pent3.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -411,10 +411,10 @@ const MensItem = [
 
     {
         id:'10',
-        item_image: '/images/pent4.jpg',
+        item_image: '/Shopping-site/images/pent4.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -429,10 +429,10 @@ const MensItem = [
 
     {
         id:'11',
-        item_image: '/images/pent5.jpg',
+        item_image: '/Shopping-site/images/pent5.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -447,10 +447,10 @@ const MensItem = [
 
     {
         id:'12',
-        item_image: '/images/shirt1.jpg',
+        item_image: '/Shopping-site/images/shirt1.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -466,10 +466,10 @@ const MensItem = [
 
     {
         id:'13',
-        item_image: '/images/shirt2.jpg',
+        item_image: '/Shopping-site/images/shirt2.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',
@@ -483,10 +483,10 @@ const MensItem = [
 
     {
         id:'14',
-        item_image:'/images/shirt3.jpg',
+        item_image:'/Shopping-site/images/shirt3.jpg',
         rating: {
             stars: 4.5,
-            noOfStars: '/images/rating.png'
+            noOfStars: '/Shopping-site/images/rating.png'
         },
         comapny_name: 'Joyalukkas',
         quality: '22k (916) Purity | BIS Certified |<br> Gold Floral Cluster Jhumki Fo',

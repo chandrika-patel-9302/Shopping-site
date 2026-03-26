@@ -74,7 +74,7 @@ function dispalyBagItem() {
                     
                     <div class="cross">
                         <i class="fa fa-cloud"></i>
-                        <i class="material-icons"><img src="/images/cross.png" class="cros" alt="cross" onclick = "cross(${product.id});" ></i>
+                        <i class="material-icons"><img src="/Shopping-site/images/cross.png" class="cros" alt="cross" onclick = "cross(${product.id});" ></i>
                     </div>
 
                     </div>`;
