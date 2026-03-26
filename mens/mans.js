@@ -35,7 +35,7 @@ function displayItemOnHomePage() {
     }
     let innerHTML = '';
 
-    items.forEach(item => {
+    MensItem.forEach(item => {
         innerHTML +=
             `<div class="item-container">
                 <div class="item">
@@ -83,8 +83,4 @@ function displayItemOnHomePage() {
     
 
 }
-
-
-
-
 
